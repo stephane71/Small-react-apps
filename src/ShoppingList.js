@@ -23,7 +23,16 @@ const articles = [
 
 class ShoppingList extends React.Component {
   render() {
-    return "ShoppingList component";
+    return (
+      <div>
+        <h2>ShoppingList component</h2>
+        <ul>
+          {articles.map((article) => (
+            <li>{article.name}</li>
+          ))}
+        </ul>
+      </div>
+    );
   }
 }
 
