@@ -11,7 +11,9 @@
     (reset du filtre)
 
   Bonus
-  Extraire les items dans un composant nommé ShoppingListItem
+  - Extraire les items dans un composant nommé ShoppingListItem
+  - Mettre à jour notre contenu avec les list des MaterielUI
+    https://mui.com/material-ui/react-list/
 
   Rendre des listes en JSX
   https://fr.reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx
