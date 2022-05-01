@@ -2,13 +2,16 @@
   ShoppingList
   Mettre à disposition la liste de courses stocké dans la variable "articles".
   Un item par ligne
-  Chaque ligne doit rendre son item au foramt suivant :
+  Chaque ligne doit rendre son item au format suivant :
     <name> - <price> - <category>
   
-  3 boutons doivent permettres d'afficher les items selon les valeur de "category"
-  - Si je click sur le bouton "Food", la liste se met à jour avec uniquement les item concernés
+  3 boutons doivent permettres d'afficher les items selon les valeurs de "category"
+  - Si je click sur le bouton "Food", la liste se met à jour avec uniquement les items concernés
   - Si je click une 2ème fois sur le même bouton, la liste se met à jour avec tous les items
     (reset du filtre)
+
+  Rendre des listes en JSX
+  https://fr.reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx
 */
 import React from "react";
 
