@@ -10,6 +10,9 @@
   - Si je click une 2ème fois sur le même bouton, la liste se met à jour avec tous les items
     (reset du filtre)
 
+  Bonus
+  Extraire les items dans un composant nommé ShoppingListItem
+
   Rendre des listes en JSX
   https://fr.reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx
 */
