@@ -27,9 +27,8 @@ class ShoppingList extends React.Component {
       <div>
         <h2>ShoppingList component</h2>
         <ul>
-          {articles.map((article) => (
-            <li>{article.name}</li>
-          ))}
+          <li>{articles[0].name}</li>
+          <li>{articles[1].name}</li>
         </ul>
       </div>
     );
