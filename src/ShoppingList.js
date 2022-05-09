@@ -33,7 +33,7 @@ class ShoppingList extends React.Component {
   render() {
     return (
       <div>
-        <h2>ShoppingList component</h2>
+        <h2>ShoppingList</h2>
         <ul>
           <li>{articles[0].name}</li>
           <li>{articles[1].name}</li>
