@@ -1,6 +1,6 @@
 /*
   ShoppingList
-  Mettre à disposition la liste de courses stocké dans la variable "articles".
+  Mettre à disposition la liste de courses stockée dans la variable "articles".
   Un item par ligne
   Chaque ligne doit rendre son item au format suivant :
     <name> - <price> - <category>
